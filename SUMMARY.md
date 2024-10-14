@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👨‍💻 Sobre Mi](README.md)
+* [Sobre Mi](README.md)
 
 ## WRITEUPS
 
