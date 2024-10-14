@@ -45,7 +45,7 @@ Una vez encontrado el usuario exploramos algunas rutas que siempre son de intere
 
 Para esta etapa usaremos gobuster, buscaremos subdominios interesantes y archivos con extensiones **.php**, .html y **.txt**
 
-```
+```bash
 gobuster dir -u http://10.10.147.169 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -x php,html,txt
 ```
 

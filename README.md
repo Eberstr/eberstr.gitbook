@@ -18,12 +18,15 @@ layout:
     visible: true
 ---
 
-# Welcome
+# 👨‍💻 Sobre Mi
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+Hola! Soy Eber, un entusiasta de la tecnología con 4 años en IT. Mi pasión: la ciberseguridad y la programación. 🖥️ 🔐 Domino Python, AutoIT, Linux y más. De validar software, ahora estoy saltando al emocionante mundo del hacking ético.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+Aquí compartiré mi viaje en ciberseguridad. Espera writeups de Hackthebox y TryHackMe, info sobre vulnerabilidades y herramientas cool. 🚀 También habrá proyectos personales y artículos tech que me parezcan interesantes. ¡Bienvenidos a este rincón de aprendizaje y exploración en ciberseguridad!
 
-### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+
+## :e-mail: Contacto
+
+* **Email:** eber.antonio9298@gmail.com
+* Linkedin: [https://www.linkedin.com/in/eber-antonio-estrada-ruelas/](https://www.linkedin.com/in/eber-antonio-estrada-ruelas/)
