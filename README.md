@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
+cover: .gitbook/assets/eber estrada..png
+coverY: -135
 layout:
   cover:
     visible: true
@@ -18,7 +18,7 @@ layout:
     visible: true
 ---
 
-# Sobre Mi
+# 👨‍💻 Sobre Mi
 
 Hola! Soy Eber, un entusiasta de la tecnología con 4 años en IT. Mi pasión: la ciberseguridad y la programación. 🖥️ 🔐 Domino Python, AutoIT, Linux y más. De validar software, ahora estoy saltando al emocionante mundo del hacking ético.
 
