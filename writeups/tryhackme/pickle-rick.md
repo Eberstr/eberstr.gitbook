@@ -21,8 +21,6 @@ nmap -p- --open --min-rate 5000 -n -Pn -vvv 10.10.147.169 -oN escaneo
 * **-vvv**: Triple verbose. Hace que imprima la información mientras la va encontrando. Se puede modificar la cantidad de “v”, el máximo es 3.
 * **-oN**: Se utiliza para guardar los resultados del escaneo en un archivo de salida en **formato normal** (normal output). Siempre va acompañado del nombre del archivo donde se guardara.
 
-<figure><img src="../../.gitbook/assets/nmap-scaneo.png" alt=""><figcaption></figcaption></figure>
-
 Este escaneo nos muestra que la máquina tiene abiertos los puertos: **80(HTTP)** y **22(SSH)**.
 
 Entramos a la página y hacemos un poco de exploración.
