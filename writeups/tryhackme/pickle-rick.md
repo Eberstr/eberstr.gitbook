@@ -1,4 +1,4 @@
-# Pickle Rick
+# 🥒 Pickle Rick
 
 [Pickle Rick](https://tryhackme.com/r/room/picklerick) es un nivel facil de la plataforma TryHackMe de nivel fácil. En esta máquina se tocan temas de WebHacking.
 

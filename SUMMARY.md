@@ -5,4 +5,4 @@
 ## WRITEUPS
 
 * [TryHackMe](writeups/tryhackme/README.md)
-  * [Pickle Rick](writeups/tryhackme/pickle-rick.md)
+  * [🥒 Pickle Rick](writeups/tryhackme/pickle-rick.md)
