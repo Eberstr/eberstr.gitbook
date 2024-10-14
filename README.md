@@ -24,6 +24,7 @@ Hola! Soy Eber, un entusiasta de la tecnología con 4 años en IT. Mi pasión: l
 
 Aquí compartiré mi viaje en ciberseguridad. Espera writeups de Hackthebox y TryHackMe, info sobre vulnerabilidades y herramientas cool. 🚀 También habrá proyectos personales y artículos tech que me parezcan interesantes. ¡Bienvenidos a este rincón de aprendizaje y exploración en ciberseguridad!
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2675168" style='border:none;'></iframe>
 
 
 ## :e-mail: Contacto
