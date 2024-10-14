@@ -33,13 +33,13 @@ La página es muy sencilla por lo que nos brincamos directo a inspeccionar el c�
 
 <figure><img src="../../.gitbook/assets/user.png" alt=""><figcaption></figcaption></figure>
 
-Una vez encontrado el usuario exploramos algunas rutas que siempre son de interes como `robots.txt` y `sitemaps.xml`. Al parecer no existe el archivo sitemaps pero dentro de robots encontramos un mensaje un poco extraño que guardaremos para después.
+Una vez encontrado el usuario exploramos algunas rutas que siempre son de interés como `robots.txt` y `sitemaps.xml`. Al parecer no existe el archivo sitemaps pero dentro de robots encontramos un mensaje un poco extraño que guardaremos para después.
 
 <figure><img src="../../.gitbook/assets/robots.png" alt=""><figcaption></figcaption></figure>
 
 ## Fuzzing <a href="#fuzzing" id="fuzzing"></a>
 
-Para esta etapa usaremos gobuster, buscaremos subdominios interesantes y archivos con extensiones **.php**, .html y **.txt**
+Para esta etapa usaremos **Gobuster**, buscaremos subdominios interesantes y archivos con extensiones **.php**, .html y **.txt**
 
 ```bash
 gobuster dir -u http://10.10.147.169 -w /usr/share/wordlists/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -x php,html,txt
@@ -53,7 +53,7 @@ De los resultados más interesantes es el panel de **login**, en el cual intenta
 
 **¡¡Funcionó!!**
 
-Dentro del panel nos encontramos con un panell de comandos. Le ingresamos el comando `whoami` para probar si funciona.
+Dentro del panel nos encontramos con un panel de comandos. Le ingresamos el comando `whoami` para probar si funciona.
 
 <figure><img src="../../.gitbook/assets/command_panel.png" alt=""><figcaption></figcaption></figure>
 
