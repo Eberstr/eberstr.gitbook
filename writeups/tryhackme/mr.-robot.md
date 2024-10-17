@@ -135,3 +135,20 @@ obtenemos una **shell** como **root**, la **tercera flag** está dentro del dire
 
 <figure><img src="../../.gitbook/assets/imagen (28).png" alt=""><figcaption></figcaption></figure>
 
+## Recomendaciones de Mitigación
+
+1. **Enumeración de directorios**:
+   * **Solución**: Deshabilitar o restringir el acceso a `/robots.txt` y archivos sensibles.
+   * **Mejora**: Configurar reglas de firewall para evitar escaneos automatizados.
+2. **Protección contra fuerza bruta**:
+   * **Solución**: Implementar límites de intentos fallidos y **CAPTCHA** en formularios de login.
+   * **Mejora**: Utilizar autenticación multifactor (MFA).
+3. **Explotación de plugins vulnerables**:
+   * **Solución**: Mantener los plugins y CMS siempre actualizados.
+   * **Mejora**: Usar políticas de revisión antes de instalar nuevos plugins.
+4. **Escalada de privilegios**:
+   * **Solución**: Revisar y eliminar archivos con permisos **SUID** innecesarios para prevenir escaladas de privilegios.
+   * **Mejora**: Implementar el principio de privilegio mínimo.
+5. **Reverse shell**:
+   * **Solución**: Monitorizar logs y conexiones sospechosas.
+   * **Mejora**: Usar soluciones de detección de intrusiones (IDS) para identificar shells remotas.
