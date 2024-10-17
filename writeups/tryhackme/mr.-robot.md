@@ -30,11 +30,11 @@ gobuster dir -u http://10.10.191.192 -w /usr/share/wordlists/SecLists/Discovery/
 
 El fuzzing nos da muchos resultados de interés. En lo personal **/robots.txt** siempre es de las primeras rutas que me gusta revisar ya que nos puede dar información extra.
 
-Como se puede ver en la imagen, hoy no fue la excepción.&#x20;
+El archivo `robots.txt` reveló información útil.&#x20;
 
 <figure><img src="../../.gitbook/assets/imagen (3).png" alt=""><figcaption></figcaption></figure>
 
-Nos encontramos con archivo que al parecer contiene una lista de **contraseñas** o **usuarios.**
+Nos encontramos con un archivo que al parecer contiene una lista de **contraseñas** o **usuarios.**
 
 <figure><img src="../../.gitbook/assets/imagen (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -62,7 +62,7 @@ En los resultados filtramos por **length,** encontrándonos con que el usuario *
 
 <figure><img src="../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
 
-Ahora buscaremos alguna contraseña valida para esto también hay muchas herramientas que podemos utilizar, en este caso usaremos **wpscan** con el mismo diccionario descargado**.**
+Ahora buscaremos alguna contraseña válida para esto también hay muchas herramientas que podemos utilizar, en este caso usaremos **wpscan** con el mismo diccionario descargado**.**
 
 ```bash
 wpscan http://10.10.191.192/wp-login.php -U Elliot -P fsocity.dic
@@ -96,7 +96,7 @@ En una de las plantillas , cargamos una **reverse shell** la cual conseguimos en
 
 <figure><img src="../../.gitbook/assets/imagen (17).png" alt=""><figcaption></figcaption></figure>
 
-Nos ponemos en escucha con `nc -lvnp 4444` y como la reverse shell la cargamos en la plantilla de 404, podemos poner cual quier cosa que llame este script.
+Nos ponemos en escucha con `nc -lvnp 4444` y como la **reverse shell** la cargamos en la plantilla de 404, podemos poner cualquier cosa que llame este script.
 
 <figure><img src="../../.gitbook/assets/imagen (18).png" alt=""><figcaption></figcaption></figure>
 
