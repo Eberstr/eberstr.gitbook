@@ -48,7 +48,7 @@ Después no movemos a la ruta **/wp-login,** en donde tratamos poner algunas de 
 
 ### Fuerza bruta
 
-Como no funciono alguna de estas combinaciones, ahora intentaremos un **ataque de fuerza bruta.** Para esto usaremos **BurpSuite**, aunque tambien es posible hacerlo con **hydra.**
+Como no funcionó alguna de estas combinaciones, ahora intentaremos un **ataque de fuerza bruta.** Para esto usaremos **BurpSuite**, aunque tambien es posible hacerlo con **hydra.**
 
 Primero interceptamos el login con el **proxy** y enviamos el **request** lo enviamos al **intruder** y ahí agregamos el marcador de payload al campo del usuario que es el que queremos encontrar.
 
