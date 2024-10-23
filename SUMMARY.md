@@ -9,3 +9,4 @@
   * [🥒 Pickle Rick](writeups/tryhackme/pickle-rick.md)
   * [🔓 Root Me](writeups/tryhackme/root-me.md)
   * [🎩 Mr. Robot](writeups/tryhackme/mr.-robot.md)
+  * [💻 Chill Hack](writeups/tryhackme/chill-hack.md)
