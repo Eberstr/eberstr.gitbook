@@ -71,7 +71,7 @@ Hacemos enumeración de las carpetas de los usuarios entramos a la unica carpeta
 
 <figure><img src="../../.gitbook/assets/imagen (52).png" alt=""><figcaption></figcaption></figure>
 
-Listamos que podemos ejecutar como sudo y por suerte podemos ejecutar el script como el usuario **apaar.**
+Listamos los comandos que podemos ejecutar como sudo y, por suerte, tenemos permiso ejecutar el script como el usuario **apaar.**
 
 ```bash
 sudo -l
