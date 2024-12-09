@@ -32,5 +32,5 @@ Aquí compartiré mi viaje en ciberseguridad. Espera writeups de Hackthebox y Tr
 
 ## :e-mail: Contacto
 
-* **Email:** eber.antonio9298@gmail.com
-* Linkedin: [https://www.linkedin.com/in/eber-antonio-estrada-ruelas/](https://www.linkedin.com/in/eber-antonio-estrada-ruelas/)
+* **Email:** eberstr.antonio@gmail.com
+* Linkedin: [https://www.linkedin.com/in/eberstr/](https://www.linkedin.com/in/eberstr/)
