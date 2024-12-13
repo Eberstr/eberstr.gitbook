@@ -26,9 +26,13 @@ Aquí compartiré mi viaje en ciberseguridad. Espera writeups de Hackthebox y Tr
 
 
 
-{% embed url="https://app.hackthebox.com/profile/834213" %}
+<figure><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/126261233" alt=""><figcaption></figcaption></figure>
+
+
 
 {% embed url="https://tryhackme.com/r/p/D4rth" %}
+
+{% embed url="https://app.hackthebox.com/profile/834213" %}
 
 ## :e-mail: Contacto
 
