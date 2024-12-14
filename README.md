@@ -20,7 +20,7 @@ layout:
 
 # 👨‍💻 Sobre Mi
 
-Hola! Soy Eber, un entusiasta de la tecnología con 4 años en IT. Mi pasión: la ciberseguridad y la programación. 🖥️ 🔐 Domino Python, AutoIT, Linux y más. De validar software, ahora estoy saltando al emocionante mundo del hacking ético.
+Hola! Soy Eber, un entusiasta de la tecnología con 4 años en IT. Mi pasión: la ciberseguridad y la programación. 🖥️ 🔐 Domino Python, AutoIT, Linux y más. Certificado en eJPT (eLearnSecurity Junior Penetration Tester. De validar software, ahora estoy saltando al emocionante mundo del hacking ético.
 
 Aquí compartiré mi viaje en ciberseguridad. Espera writeups de Hackthebox y TryHackMe, info sobre vulnerabilidades y herramientas cool. 🚀 También habrá proyectos personales y artículos tech que me parezcan interesantes. ¡Bienvenidos a este rincón de aprendizaje y exploración en ciberseguridad!
 
