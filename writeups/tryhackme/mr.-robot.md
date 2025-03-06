@@ -62,7 +62,7 @@ En los resultados filtramos por **length,** encontrándonos con que el usuario *
 
 <figure><img src="../../.gitbook/assets/imagen (11).png" alt=""><figcaption></figcaption></figure>
 
-Ahora buscaremos alguna contraseña válida para esto también hay muchas herramientas que podemos utilizar, en este caso usaremos **wpscan** con el mismo diccionario descargado**.**
+Ahora buscaremos alguna contraseña válida para esto también hay muchas herramientas que podemos utilizar, en este caso usaremos **wpscan** con el mismo diccionario descargad&#x6F;**.**
 
 ```bash
 wpscan http://10.10.191.192/wp-login.php -U Elliot -P fsocity.dic

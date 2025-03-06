@@ -10,3 +10,4 @@
   * [🔓 Root Me](writeups/tryhackme/root-me.md)
   * [🎩 Mr. Robot](writeups/tryhackme/mr.-robot.md)
   * [💻 Chill Hack](writeups/tryhackme/chill-hack.md)
+  * [Resolución de reto pwnterrey](writeups/tryhackme/resolucion-de-reto-pwnterrey.md)
